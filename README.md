@@ -43,3 +43,6 @@ s.no|s.name|s.marks
 2|anand|100
 3|hemanth|100
 4| Venkatesh|100
+
+
+<img src="Image.jpg" width="214" height="204">
